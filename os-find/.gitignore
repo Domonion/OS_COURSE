@@ -1,0 +1,9 @@
+.idea
+cmake-*
+TODO
+CMakeFiles
+CMakeCache.txt
+cmake_install*
+find.cbp
+find
+Makefile
